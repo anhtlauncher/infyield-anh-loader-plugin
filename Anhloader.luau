@@ -19,7 +19,6 @@ local Plugin = {
 					[{3101667897}] = "https://raw.githubusercontent.com/RegularVynixu/Vynixius/main/Legends%20Of%20Speed/Script.lua",
 					[{3956818381}] = "https://raw.githubusercontent.com/RegularVynixu/Vynixius/main/Ninja%20Legends/Script.lua",
 					[{4623386862, 5661005779}] = "https://raw.githubusercontent.com/RegularVynixu/Vynixius/main/Piggy/Loader.lua",
-					[{155615604}] = "https://raw.githubusercontent.com/RegularVynixu/Vynixius/main/Prison%20Life/Script.lua",
 					[{1962086868, 3582763398}] = "https://raw.githubusercontent.com/RegularVynixu/Vynixius/main/Tower%20of%20Hell/Script.lua",
 					[{6839171747}] = "https://raw.githubusercontent.com/RegularVynixu/Vynixius/main/Doors/Script.lua",
 					[{286090429}] = "https://raw.githubusercontent.com/anhtlauncher/scripts/main/arsenal_silent_aim.lua",
