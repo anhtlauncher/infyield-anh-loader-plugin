@@ -27,7 +27,7 @@ local Plugin = {
 					[{155615604}] = "https://raw.githubusercontent.com/anhtlauncher/scripts-1/main/scripts/LoadstringuAuIdRtdlSKe",
 					[{292439477}] = "https://raw.githubusercontent.com/VoidMasterX/strawhook/main/script.lua",
 					[{2551991523, 3851622790, 662417684, 2248408710}] = "https://raw.githubusercontent.com/TrixAde/Proxima-Hub/main/Main.lua",
-					[{7180042682, 2788229376, 893973440, 654732683, 2414851778, 171391948, 189707, 4972091010, 137885680, 1240123653, 2768379856}] = "https://raw.githubusercontent.com/1201for/V.G-Hub/main/V.Ghub",
+					[{7180042682, 2788229376, 893973440, 654732683, 2414851778, 171391948, 189707, 4972091010, 137885680, 1240123653, 2768379856, 2768379856}] = "https://raw.githubusercontent.com/1201for/V.G-Hub/main/V.Ghub",
 					
                                 }
 				for ids, url in next, games do
